@@ -1,1 +1,0 @@
-{"version":3,"file":"equation-editor.d.ts","sourceRoot":"","sources":["../../../src/editor-ui/equation-editor.tsx"],"names":[],"mappings":"AAQA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAA;AAG9B,KAAK,uBAAuB,GAAG;IAC7B,QAAQ,EAAE,MAAM,CAAA;IAChB,MAAM,EAAE,OAAO,CAAA;IACf,WAAW,EAAE,CAAC,QAAQ,EAAE,MAAM,KAAK,IAAI,CAAA;CACxC,CAAA;;AA4CD,wBAAyC"}

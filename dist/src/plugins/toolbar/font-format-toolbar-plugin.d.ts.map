@@ -1,1 +1,0 @@
-{"version":3,"file":"font-format-toolbar-plugin.d.ts","sourceRoot":"","sources":["../../../../src/plugins/toolbar/font-format-toolbar-plugin.tsx"],"names":[],"mappings":"AAEA,OAAO,EAIL,cAAc,EACf,MAAM,SAAS,CAAC;AAsBjB,wBAAgB,uBAAuB,CAAC,EACtC,MAAM,GACP,EAAE;IACD,MAAM,EAAE,IAAI,CAAC,cAAc,EAAE,WAAW,GAAG,WAAW,GAAG,aAAa,CAAC,CAAC;CACzE,+BAiCA"}

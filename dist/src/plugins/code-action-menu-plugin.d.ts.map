@@ -1,1 +1,0 @@
-{"version":3,"file":"code-action-menu-plugin.d.ts","sourceRoot":"","sources":["../../../src/plugins/code-action-menu-plugin.tsx"],"names":[],"mappings":"AASA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAA;AAmK9B,wBAAgB,oBAAoB,CAAC,EACnC,UAAU,GACX,EAAE;IACD,UAAU,EAAE,cAAc,GAAG,IAAI,CAAA;CAClC,GAAG,KAAK,CAAC,WAAW,GAAG,IAAI,CAS3B"}

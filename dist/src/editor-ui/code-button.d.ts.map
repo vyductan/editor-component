@@ -1,1 +1,0 @@
-{"version":3,"file":"code-button.d.ts","sourceRoot":"","sources":["../../../src/editor-ui/code-button.tsx"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,KAAK,KAAK,MAAM,OAAO,CAAA;AAI9B,OAAO,EAIL,aAAa,EACd,MAAM,SAAS,CAAA;AAKhB,UAAU,KAAK;IACb,MAAM,EAAE,aAAa,CAAA;IACrB,cAAc,EAAE,MAAM,WAAW,GAAG,IAAI,CAAA;CACzC;AAED,wBAAgB,UAAU,CAAC,EAAE,MAAM,EAAE,cAAc,EAAE,EAAE,KAAK,qBAiD3D"}

@@ -1,1 +1,0 @@
-{"version":3,"file":"use-modal.d.ts","sourceRoot":"","sources":["../../../src/editor-hooks/use-modal.tsx"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,EAAE,GAAG,EAAkC,MAAM,OAAO,CAAC;AAU5D,wBAAgB,cAAc,IAAI;IAChC,GAAG,CAAC,OAAO,GAAG,IAAI;IAClB,CAAC,KAAK,EAAE,MAAM,EAAE,SAAS,EAAE,CAAC,OAAO,EAAE,MAAM,IAAI,KAAK,GAAG,CAAC,OAAO,KAAK,IAAI;CACzE,CA4CA"}

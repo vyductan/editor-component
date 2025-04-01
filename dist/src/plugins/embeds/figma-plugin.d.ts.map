@@ -1,1 +1,0 @@
-{"version":3,"file":"figma-plugin.d.ts","sourceRoot":"","sources":["../../../../src/plugins/embeds/figma-plugin.tsx"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,EAAE,GAAG,EAAa,MAAM,OAAO,CAAC;AAGvC,OAAO,EAGL,cAAc,EACf,MAAM,SAAS,CAAC;AAIjB,eAAO,MAAM,oBAAoB,EAAE,cAAc,CAAC,MAAM,CAEvD,CAAC;AAEF,wBAAgB,WAAW,IAAI,GAAG,CAAC,OAAO,GAAG,IAAI,CAoBhD"}
