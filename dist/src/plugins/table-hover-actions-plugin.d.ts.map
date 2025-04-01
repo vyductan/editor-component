@@ -1,0 +1,1 @@
+{"version":3,"file":"table-hover-actions-plugin.d.ts","sourceRoot":"","sources":["../../../src/plugins/table-hover-actions-plugin.tsx"],"names":[],"mappings":"AAQA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAA;AA4Q9B,wBAAgB,uBAAuB,CAAC,EACtC,UAAU,GACX,EAAE;IACD,UAAU,EAAE,cAAc,GAAG,IAAI,CAAA;CAClC,GAAG,KAAK,CAAC,WAAW,GAAG,IAAI,CAa3B"}

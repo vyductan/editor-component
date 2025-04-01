@@ -1,0 +1,1 @@
+{"version":3,"file":"table-action-menu-plugin.d.ts","sourceRoot":"","sources":["../../../src/plugins/table-action-menu-plugin.tsx"],"names":[],"mappings":"AASA,OAAO,EAEL,WAAW,EAKZ,MAAM,OAAO,CAAC;AAorBf,wBAAgB,qBAAqB,CAAC,EACpC,UAAU,EACV,SAAiB,GAClB,EAAE;IACD,UAAU,EAAE,cAAc,GAAG,IAAI,CAAC;IAClC,SAAS,CAAC,EAAE,OAAO,CAAC;CACrB,GAAG,IAAI,GAAG,WAAW,CAgBrB"}

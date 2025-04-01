@@ -1,0 +1,1 @@
+{"version":3,"file":"character-limit-plugin.d.ts","sourceRoot":"","sources":["../../../../src/plugins/actions/character-limit-plugin.tsx"],"names":[],"mappings":"AAEA,wBAAgB,oBAAoB,CAAC,EACnC,SAAS,EACT,OAAO,GACR,EAAE;IACD,SAAS,EAAE,MAAM,CAAA;IACjB,OAAO,EAAE,OAAO,GAAG,QAAQ,CAAA;CAC5B,+BAcA"}

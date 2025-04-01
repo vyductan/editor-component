@@ -1,0 +1,1 @@
+{"version":3,"file":"counter-character-plugin.d.ts","sourceRoot":"","sources":["../../../../src/plugins/actions/counter-character-plugin.tsx"],"names":[],"mappings":"AA8BA,UAAU,2BAA2B;IACnC,OAAO,CAAC,EAAE,OAAO,GAAG,QAAQ,CAAA;CAC7B;AAcD,wBAAgB,sBAAsB,CAAC,EAAE,OAAkB,EAAE,EAAE,2BAA2B,+BA0BzF"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"floating-link-context.d.ts","sourceRoot":"","sources":["../../../src/context/floating-link-context.tsx"],"names":[],"mappings":"AAUA,wBAAgB,mBAAmB,CAAC,EAClC,QAAQ,GACT,EAAE;IACD,QAAQ,EAAE,KAAK,CAAC,SAAS,CAAA;CAC1B,+BAQA;AAED,wBAAgB,sBAAsB;oBArBpB,OAAO;uBACJ,CAAC,cAAc,EAAE,OAAO,KAAK,IAAI;EA2BrD"}
